@@ -39,3 +39,5 @@ finish the project. If you are a Chinses speaker or Chinses user, I also prepare
 It is the second time write the README file, I return the last page by mistake, so that' s all I want write, and I will attach an UI image below, thanks!
 
 ## UI Screenshot
+![UI_SCREENSHOT_IMAGE](https://github.com/goldeneave/TimeRecorder/blob/main/ui_screenshot.png)https://github.com/goldeneave/TimeRecorder/blob/main/ui_screenshot.png)
+

@@ -14,7 +14,7 @@ Please note that the current version of Timekeeper is incomplete as there are is
 ## Installation
 1. Clone the repository from GitHub:
 ```
-git clone https://github.com/your-username/timekeeper.git
+git@github.com:goldeneave/TimeRecorder.git
 ```
 
 ## Usage
